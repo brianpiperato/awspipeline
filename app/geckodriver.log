@@ -1,0 +1,472 @@
+1570819869235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3vy78t"
+1570819870190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570819870191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570819870191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570819870191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570819873257	Marionette	INFO	Listening on port 34657
+1570819873268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570819896406	Marionette	INFO	Stopped listening on port 34657
+1570819934988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletAVzNi"
+1570819935685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570819935685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570819935685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570819935685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570819938278	Marionette	INFO	Listening on port 35741
+1570819938312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570819952293	Marionette	INFO	Stopped listening on port 35741
+1570820234235	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecaalJr"
+1570820236183	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570820236184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570820236184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570820236184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570820238846	Marionette	INFO	Listening on port 42873
+1570820238878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+[Parent 6266, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 6266, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570820288164	Marionette	INFO	Stopped listening on port 42873
+1570820545316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIpptdZ"
+1570820546531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570820546532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570820546532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570820546532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570820548899	Marionette	INFO	Listening on port 46031
+1570820549006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570820563934	Marionette	INFO	Stopped listening on port 46031
+1570820702225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9tq0L0"
+1570820706055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570820706056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570820706056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570820706056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570820710609	Marionette	INFO	Listening on port 37195
+1570820711028	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 235: TypeError: this._inputFieldEvents is undefined
+1570820816383	Marionette	INFO	Stopped listening on port 37195
+1570820839987	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN03OQ2"
+1570820843160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570820843161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570820843161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570820843161	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570820847120	Marionette	INFO	Listening on port 44115
+1570820847165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+[Parent 7060, Gecko_IOThread] WARNING: pipe error (92): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 7060, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570820939404	Marionette	INFO	Stopped listening on port 44115
+1570821102302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb9S6Cu"
+1570821102996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821102996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821102997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821102997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821105403	Marionette	INFO	Listening on port 43393
+1570821105447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821136344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBFmwXH"
+1570821137119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821137119	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821137120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821137120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821139610	Marionette	INFO	Listening on port 32893
+1570821139680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821143284	Marionette	INFO	Stopped listening on port 43393
+1570821158932	Marionette	INFO	Stopped listening on port 32893
+1570821244872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezW4jlg"
+1570821245585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821245585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821245585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821245585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821247995	Marionette	INFO	Listening on port 43389
+1570821248094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821279028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3A4Gbj"
+1570821279851	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821279852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821279852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821279852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821282860	Marionette	INFO	Listening on port 45051
+1570821282976	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821301697	Marionette	INFO	Stopped listening on port 45051
+1570821306079	Marionette	INFO	Stopped listening on port 43389
+1570821450899	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3tY3vH"
+1570821451683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821451683	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821451684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821451684	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821454444	Marionette	INFO	Listening on port 41283
+1570821454528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821466788	Marionette	INFO	Stopped listening on port 41283
+1570821467508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5k3Sw6"
+1570821468174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821468174	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821468175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821468175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821470559	Marionette	INFO	Listening on port 39509
+1570821470631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821481940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletPD1GQ"
+1570821482069	Marionette	INFO	Stopped listening on port 39509
+1570821482673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821482673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821482673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821482673	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821485380	Marionette	INFO	Listening on port 37727
+1570821485463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821501357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilealfHJF"
+1570821501628	Marionette	INFO	Stopped listening on port 37727
+1570821502104	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821502105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821502105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821502105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821505628	Marionette	INFO	Listening on port 36995
+1570821505698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821523449	Marionette	INFO	Stopped listening on port 36995
+1570821819826	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileViG4EG"
+1570821820501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821820501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821820501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821820501	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821823003	Marionette	INFO	Listening on port 41081
+1570821823051	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821849095	Marionette	INFO	Stopped listening on port 41081
+1570821935777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevBgb6n"
+1570821936508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570821936508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570821936508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570821936508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570821939067	Marionette	INFO	Listening on port 35307
+1570821939122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570821953774	Marionette	INFO	Stopped listening on port 35307
+1570822345601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefk2vDA"
+1570822346588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822346588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822346588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822346588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822349095	Marionette	INFO	Listening on port 34977
+1570822349128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822360366	Marionette	INFO	Stopped listening on port 34977
+1570822379186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCwZweT"
+1570822379923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822379923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822379923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822379924	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822383048	Marionette	INFO	Listening on port 46483
+1570822383118	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822393003	Marionette	INFO	Stopped listening on port 46483
+1570822396425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2A6Jux"
+1570822397150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822397150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822397150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822397150	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822400712	Marionette	INFO	Listening on port 37381
+1570822400770	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822409692	Marionette	INFO	Stopped listening on port 37381
+1570822416301	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9m0b9N"
+1570822417086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822417086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822417086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822417086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822419880	Marionette	INFO	Listening on port 33539
+1570822419987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822431436	Marionette	INFO	Stopped listening on port 33539
+1570822445490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileunZn9D"
+1570822446186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822446186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822446186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822446186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822449350	Marionette	INFO	Listening on port 44145
+1570822449425	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822458830	Marionette	INFO	Stopped listening on port 44145
+1570822578230	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexpB94V"
+1570822578950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822578950	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822578951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822578951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822582116	Marionette	INFO	Listening on port 32875
+1570822582155	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822592544	Marionette	INFO	Stopped listening on port 32875
+1570822627460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEOTxSf"
+1570822628165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822628165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822628166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822628166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822630757	Marionette	INFO	Listening on port 37735
+1570822630789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+[Parent 10898, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570822666326	Marionette	INFO	Stopped listening on port 37735
+1570822670712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenkDrkL"
+1570822671542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822671542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822671543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822671543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822674343	Marionette	INFO	Listening on port 46545
+1570822674437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+[Parent 11123, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11123, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570822788111	Marionette	INFO	Stopped listening on port 46545
+1570822802674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUF940N"
+1570822803484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822803484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822803484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822803484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822805972	Marionette	INFO	Listening on port 33809
+1570822806025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570822817292	Marionette	INFO	Stopped listening on port 33809
+1570822829217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezwfBqj"
+1570822830037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822830038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822830038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822830038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822832928	Marionette	INFO	Listening on port 35473
+1570822832945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+[Parent 11701, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11701, Gecko_IOThread] WARNING: pipe error (107): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1570822882113	Marionette	INFO	Stopped listening on port 35473
+1570822991208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2mVcjn"
+1570822992251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570822992251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570822992252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570822992252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570822994892	Marionette	INFO	Listening on port 36583
+1570822994942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823019053	Marionette	INFO	Stopped listening on port 36583
+1570823093156	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile44uhgC"
+1570823094117	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570823094118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570823094118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570823094118	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570823096713	Marionette	INFO	Listening on port 46327
+1570823096786	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823120621	Marionette	INFO	Stopped listening on port 46327
+1570823218961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJgTI2L"
+1570823219755	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570823219756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570823219756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570823219756	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570823222654	Marionette	INFO	Listening on port 44755
+1570823222742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823238111	Marionette	INFO	Stopped listening on port 44755
+1570823490227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVfkUAW"
+1570823490892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570823490892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570823490892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570823490892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570823493578	Marionette	INFO	Listening on port 37757
+1570823493667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823506102	Marionette	INFO	Stopped listening on port 37757
+1570823516329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewMYJcy"
+1570823516927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570823516927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570823516927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570823516927	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570823520489	Marionette	INFO	Listening on port 41363
+1570823520566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823532303	Marionette	INFO	Stopped listening on port 41363
+1570823694534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile33Yvi9"
+1570823695153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570823695153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570823695153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570823695154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570823697814	Marionette	INFO	Listening on port 45321
+1570823697863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1570823709160	Marionette	INFO	Stopped listening on port 45321
+1571228550469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMSEtLx"
+1571228553369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571228553369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571228553369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571228553369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571228568589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee6xb2z"
+1571228569205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571228569206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571228569206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571228569206	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571228572935	Marionette	INFO	Listening on port 38633
+1571228573033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 4588, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1571228626892	Marionette	INFO	Stopped listening on port 38633
+1571228639182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKXwgpX"
+1571228639743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571228639743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571228639744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571228639744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571228642373	Marionette	INFO	Listening on port 35741
+1571228642412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1571228742684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledS2kzE"
+1571228743248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571228743248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571228743248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571228743248	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571228746018	Marionette	INFO	Listening on port 34177
+1571228746113	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+[Parent 5092, Gecko_IOThread] WARNING: pipe error (84): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 5092, Gecko_IOThread] WARNING: pipe error (81): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1571228807638	Marionette	INFO	Stopped listening on port 34177
+[Parent 4850, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 4850, Gecko_IOThread] WARNING: pipe error (74): Connection reset by peer: file /build/firefox-EYLW8k/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1571228813479	Marionette	INFO	Stopped listening on port 35741
+1571233789563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqYQ0wD"
+1571233790378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571233790378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571233790379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571233790379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571233795390	Marionette	INFO	Listening on port 36749
+1571233795429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+1571233877765	Marionette	INFO	Stopped listening on port 36749
+1571235449641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemohTz2"
+*** You are running in headless mode.
+1571235450275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571235450275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571235450275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571235450275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571235452937	Marionette	INFO	Listening on port 36689
+1571235452962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:4138): GLib-GObject-CRITICAL **: 10:18:10.985: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571235958508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJYJ26V"
+*** You are running in headless mode.
+1571235959053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571235959053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571235959053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571235959053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571235961568	Marionette	INFO	Listening on port 39029
+1571235961649	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:4666): GLib-GObject-CRITICAL **: 10:26:45.021: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571238647330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKVEcbb"
+*** You are running in headless mode.
+1571238647726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571238647726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571238647727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571238647727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571238649942	Marionette	INFO	Listening on port 36045
+1571238649984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1571238673712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5kRbqi"
+*** You are running in headless mode.
+1571238674301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571238674301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571238674301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571238674301	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571238677401	Marionette	INFO	Listening on port 45201
+1571238677446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:5396): GLib-GObject-CRITICAL **: 11:12:04.027: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571239197461	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile04oLiR"
+*** You are running in headless mode.
+1571239198068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571239198068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571239198068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571239198068	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571239201427	Marionette	INFO	Listening on port 37789
+1571239202188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:5736): GLib-GObject-CRITICAL **: 11:20:53.157: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571241072346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZshKDc"
+*** You are running in headless mode.
+1571241074466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571241074466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571241074466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571241074466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571241077450	Marionette	INFO	Listening on port 44199
+1571241077546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:6392): GLib-GObject-CRITICAL **: 11:52:02.385: g_object_get: assertion 'G_IS_OBJECT (object)' failed
