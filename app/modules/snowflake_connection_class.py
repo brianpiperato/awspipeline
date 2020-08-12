@@ -1,6 +1,6 @@
+from snowflake.connector import connect  # Connect to Snowflake DB
 import sys
 import pandas as pd
-from snowflake.connector import connect  # Connect to Snowflake DB
 
 
 class sf:
@@ -49,3 +49,4 @@ class sf:
 
     def close(self):
         self.cursor.close()
+

@@ -470,3 +470,147 @@ JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError
 JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
 
 (firefox:6392): GLib-GObject-CRITICAL **: 11:52:02.385: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571324333772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile18lcUN"
+*** You are running in headless mode.
+1571324335325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571324335325	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571324335326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571324335326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571324338536	Marionette	INFO	Listening on port 45375
+1571324338666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:8932): GLib-GObject-CRITICAL **: 10:59:43.275: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571324552909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiGppH2"
+*** You are running in headless mode.
+1571324553811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571324553811	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571324553812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571324553812	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571324556156	Marionette	INFO	Listening on port 34805
+1571324556233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:9259): GLib-GObject-CRITICAL **: 11:03:19.880: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571331847796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRA4uXg"
+*** You are running in headless mode.
+1571331848646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571331848646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571331848646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571331848646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571331851080	Marionette	INFO	Listening on port 38873
+1571331851131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:10661): GLib-GObject-CRITICAL **: 13:05:05.329: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571331961662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6zbJkY"
+*** You are running in headless mode.
+1571331962690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571331962691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571331962691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571331962691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571331966017	Marionette	INFO	Listening on port 39287
+1571331966114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:10907): GLib-GObject-CRITICAL **: 13:06:55.576: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571332273429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC2acjh"
+*** You are running in headless mode.
+1571332273922	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571332273923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571332273923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571332273923	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571332276914	Marionette	INFO	Listening on port 43641
+1571332276968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:11236): GLib-GObject-CRITICAL **: 13:12:13.701: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571332485953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileahNyIZ"
+*** You are running in headless mode.
+1571332486737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571332486737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571332486737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571332486737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571332490684	Marionette	INFO	Listening on port 40317
+1571332490981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:11554): GLib-GObject-CRITICAL **: 13:15:43.251: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571339586368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex9pLBS"
+*** You are running in headless mode.
+1571339589845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571339589846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571339589846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571339589846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571339599892	Marionette	INFO	Listening on port 45601
+1571339600172	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:13348): GLib-GObject-CRITICAL **: 15:14:17.728: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571339671189	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2MVsRw"
+*** You are running in headless mode.
+1571339675488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571339675489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571339675489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571339675489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571339683109	Marionette	INFO	Listening on port 39261
+1571339683380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:13627): GLib-GObject-CRITICAL **: 15:15:36.380: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571340093059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5PtUo"
+*** You are running in headless mode.
+1571340098791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571340098791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571340098791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571340098792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571340108931	Marionette	INFO	Listening on port 42099
+1571340109176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:14024): GLib-GObject-CRITICAL **: 15:22:41.008: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571340333766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekKLWTz"
+*** You are running in headless mode.
+1571340338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571340338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571340338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571340338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571340350204	Marionette	INFO	Listening on port 45913
+1571340350613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:14366): GLib-GObject-CRITICAL **: 15:26:42.620: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571403916317	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLrOkaR"
+*** You are running in headless mode.
+1571403919181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571403919181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571403919182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571403919182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571403923467	Marionette	INFO	Listening on port 37505
+1571403923478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:4196): GLib-GObject-CRITICAL **: 09:06:06.189: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1571410359921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXFDjOg"
+*** You are running in headless mode.
+1571410360739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1571410360739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1571410360740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1571410360740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1571410363592	Marionette	INFO	Listening on port 41251
+1571410363641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://transtats.bts.gov/js/highcharts.js, line 91: TypeError: K is not a function
+JavaScript error: https://transtats.bts.gov/js/modules/exporting.js, line 9: TypeError: f.getOptions is not a function
+
+(firefox:5584): GLib-GObject-CRITICAL **: 10:53:21.200: g_object_get: assertion 'G_IS_OBJECT (object)' failed
